@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Vaishnav</h1>
-<h3 align="center">A passionate Data Science learner from India</h3>
+<h3 align="center">A passionate Cloud learner especially AWS from India</h3>
 
-- 🔭 I’m currently working on **Finance Calculators**
+- 🔭 I’m currently working on **Industrial ERP System**
 
 - 🌱 I’m currently learning **Data Science & Analytics with Gen AI — covering Python, statistics, SQL, machine learning, and AI fundamentals**
 
